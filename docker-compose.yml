@@ -2,7 +2,7 @@ version: '3.8'
 
 services:
   frontend:
-    build: ./EComF/frontend
+    build: ./EComF
     ports:
       - "3003:3003"
   backend:
