@@ -1,5 +1,6 @@
 # E-commerce Website
-
+https://github.com/artsemlemesh/EComB.git
+https://github.com/artsemlemesh/EComF.git
 ## Project Description
 This project is a website for selling digital products such as phones, TVs, and speakers. It features user authentication, data fetching from a Django database, payment integration, sorting and search functionalities, and a contact form.
 
