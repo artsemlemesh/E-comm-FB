@@ -10,8 +10,8 @@ This project is a website for selling digital products such as phones, TVs, and 
 
 ## Live Demo
 
-	•	[Frontend] (https://front-mike-d8af1337fdbe.herokuapp.com/)
-	•	[Backend] (https://back-mike-1855d352a13c.herokuapp.com/)
+   [Frontend] (https://front-mike-d8af1337fdbe.herokuapp.com/)
+   [Backend] (https://back-mike-1855d352a13c.herokuapp.com/)
 
 ## Prerequisites
 
