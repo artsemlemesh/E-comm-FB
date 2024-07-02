@@ -48,11 +48,6 @@ This will launch the application on your local machine. The frontend will be acc
 - **Dark Theme Switch**: Toggle between light and dark themes.
 - **Local Storage**: Store cart items and theme preference in local storage.
 
-## Installation Instructions
-To be provided.
-
-## Usage Instructions
-To be provided.
 
 ## Technologies Used
 - **Auth0**: For user login/logout authentication.
@@ -66,8 +61,7 @@ To be provided.
 ## Contributing
 If you would like to contribute to this project, please fork the repository and submit a pull request. You can also open issues for any bugs or feature requests.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+
 
 ## Contact Information
-For any questions or issues, please contact [your email or contact link].
+For any inquiries or feedback, feel free to reach out to me at [artsemlemesh@yandex.by](mailto:artsemlemesh@yandex.by).
