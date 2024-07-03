@@ -1,8 +1,21 @@
 # E-commerce Website
 
 ## Project Description
+
 This project is a website for selling digital products such as phones, TVs, and speakers. It features user authentication, data fetching from a Django database, payment integration, sorting and search functionalities, and a contact form.
 
+The styling of this website is kept simple to emphasize functionality and showcase my technical skills. Key features include:
+
+	•	Consistent dark theme across all pages
+	•	Outside click handling
+	•	“Show more” button that loads additional products with each click
+	•	Dynamic search functionality
+	•	User login system
+	•	Advanced filtering options
+	•	Integrated payment system
+	•	Google Firebase for contact management
+
+This site demonstrates my ability to implement robust, user-friendly web applications with efficient and maintainable code.
 ## Source Code
 
   [Frontend] (https://github.com/artsemlemesh/EComF.git) 
