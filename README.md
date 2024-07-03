@@ -1,8 +1,41 @@
 # E-commerce Website
-https://github.com/artsemlemesh/EComB.git
-https://github.com/artsemlemesh/EComF.git
+
 ## Project Description
 This project is a website for selling digital products such as phones, TVs, and speakers. It features user authentication, data fetching from a Django database, payment integration, sorting and search functionalities, and a contact form.
+
+## Source Code
+
+  [Frontend] (https://github.com/artsemlemesh/EComF.git) 
+  [Backend] (https://github.com/artsemlemesh/EComB.git)
+
+## Live Demo
+
+   [Frontend] (https://front-mike-d8af1337fdbe.herokuapp.com/)
+   [Backend] (https://back-mike-1855d352a13c.herokuapp.com/)
+
+## Prerequisites
+
+Docker must be installed on your local machine.
+
+### Instructions
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/artsemlemesh/E-comm-FB.git
+   ```
+
+2. Navigate to the project directory:
+   ```sh
+   cd E-comm-FB
+   ```
+
+3. Run the Docker containers:
+   ```sh
+   docker-compose up
+   ```
+
+This will launch the application on your local machine. The frontend will be accessible via the configured port, and it will communicate with the backend API.
+
 
 ## Features
 - **Login/Logout**: User authentication using Auth0.
@@ -15,11 +48,6 @@ This project is a website for selling digital products such as phones, TVs, and 
 - **Dark Theme Switch**: Toggle between light and dark themes.
 - **Local Storage**: Store cart items and theme preference in local storage.
 
-## Installation Instructions
-To be provided.
-
-## Usage Instructions
-To be provided.
 
 ## Technologies Used
 - **Auth0**: For user login/logout authentication.
@@ -33,8 +61,7 @@ To be provided.
 ## Contributing
 If you would like to contribute to this project, please fork the repository and submit a pull request. You can also open issues for any bugs or feature requests.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+
 
 ## Contact Information
-For any questions or issues, please contact [your email or contact link].
+For any inquiries or feedback, feel free to reach out to me at [artsemlemesh@yandex.by](mailto:artsemlemesh@yandex.by).
